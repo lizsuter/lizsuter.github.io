@@ -35,8 +35,8 @@ In summer 2020, we planned to assess the health of recently restored oysters and
 <br/><br/>
 
 
-<img align="left" src="/images/Summer2019.jpg" width="200px" style="padding-right: 15px">
 ### Ecosystem Services of Restored Oyster Reefs
+<img align="left" src="/images/Summer2019.jpg" width="200px" style="padding-right: 15px">
 In summer 2018 and 2019, we sampled at Bush Terminal Park, in Brooklyn, NY. This is a site with a long history of industrial pollution, leading to contamination of the ground and surface waters. In recent years, this site has been restored into an urban park and the [Billion Oyster Project](https://www.billionoysterproject.org/) placed an oyster reef in the lagoons at the park as part of their goal to restore water quality to the Hudson Bay. We are interested in the role of microbes at this site, their interactions with heavy metals, and plastics, and the potential for microbial sewage contamination remediation.
 <br/><br/>
 
@@ -44,5 +44,5 @@ In summer 2018 and 2019, we sampled at Bush Terminal Park, in Brooklyn, NY. This
 
 
 ### A Hudson River Estuary Microbial Network
-<img align="right" src="/images/HRE_SYBR.png" width="200px" style="padding-right: 30px">
+<img align="right" src="/images/HRE_SYBR.png" width="200px" style="padding-right: 50px">
 Sewage contamination is a consistent problem affecting many natural waterways. In the Hudson River, monitoring by Hudson Riverkeeper has shown that human gut-derived bacterial populations are frequently present at sites throughout the estuary. However, these events are not always necessarily linked to rainfall. Our [collaborators](https://juhl.ldeo.columbia.edu/) at [LDEO](https://www.ldeo.columbia.edu/) aim to observe and model the highly dynamic spatiotemporal variability of these populations while determining their sources and sinks in the natural environment. We are working together with them on analysis of a microbial time series from a sewage-contaminated site.
