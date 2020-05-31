@@ -10,7 +10,7 @@ author_profile: true
 <br/><br/>
 ### Cariaco Basin
 
-<img align="right" src="/images/cariaco_logo.jpg" width="300px" style="padding-right: 15px">
+<img align="right" src="/images/cariaco_logo.jpg" width="200px" style="padding-right: 15px">
 
 ODWCs are hotspots for biogeochemical cycling by marine microbial communities. My dissertation focused on the Cariaco Basin, a permanently anoxic marine basin on the northern coast of Venezuela with a unique microbiome and intense geochemical activity. I continue to collaborate with my colleagues on this project. For more information check out the [Cariaco Ocean Time-Series](http://imars.marine.usf.edu/cariaco) and especially some of the [research](http://imars.marine.usf.edu/view/biblio/803738/year) that has come out of that project.
 <br/><br/>
