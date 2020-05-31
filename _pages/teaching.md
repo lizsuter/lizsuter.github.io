@@ -36,15 +36,13 @@ The fundamental physical, chemical, biological, and geological properties that s
 In spring of 2020, [BVCN](https://biovcnet.github.io/) was formed in response to COVID19. Because many researchers were working from home, BVCN's aim is to help wet lab biologists learn bioinformatics skills.  All lessons and tutorials are recorded and all material is open-access.
 
 ### Ocean Observatories Initiative (OOI)
-The [OOI](https://oceanobservatories.org/) is an NSF-sponsored ocean observing system and science, education, and outreach network. In 2018, I attended a [workshop](https://oceanobservatories.org/data-workshops/) for early career scientists to learn to use data from the network and in 2019, I attended a workshop with the [OOI Ocean Data Lab Project](https://datalab.marine.rutgers.edu/) to learn to incorporate OOI data into my classess. I continue to work with datalans from the OOI in my classes as well as contribute to development and assessment of new [OOI Datalabs](https://datalab.marine.rutgers.edu/explorations/index.php). 
+The [OOI](https://oceanobservatories.org/) is an NSF-sponsored ocean observing system and science, education, and outreach network. In 2018, I attended a [workshop](https://oceanobservatories.org/data-workshops/) for early career scientists to learn to use data from the network and in 2019, I attended a workshop with the [OOI Ocean Data Lab Project](https://datalab.marine.rutgers.edu/) to learn to incorporate OOI data into my classess. I continue to work with these in my classes as well as contribute to development and assessment of new [OOI Datalabs](https://datalab.marine.rutgers.edu/explorations/index.php). 
 
 
 ### Other
-In addition to the above organizations, I am a trained [Tiny Earth](https://tinyearth.wisc.edu/) Partner Instructor (TEPI). I have not yet had the opportunity to apply the curriculum but am looking forward to the day that I can!
-
 I am also passionate about open-access science and educational resources and developing best practices for the online/hybrid classroom. For those purposes, I have found the resources at Molloy's [Office on Blended and Online Learning](https://www.molloy.edu/academics/blended-and-online-learning/the-office-of-blended-and-online-learning) and those from [Science Education Research Center at Carleton College (SERC)](https://serc.carleton.edu/index.html) invaluable in my teaching.
 
-
+In addition to the above organizations, I am a trained [Tiny Earth](https://tinyearth.wisc.edu/) Partner Instructor (TEPI). I have not yet had the opportunity to apply the curriculum but am looking forward to the day that I can!
 
 <br/><br/>
 # Courses taught previously at other institutions
