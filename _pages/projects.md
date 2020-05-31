@@ -16,7 +16,7 @@ ODWCs are hotspots for biogeochemical cycling by marine microbial communities. M
 <br/><br/>
 <br/><br/>
 
-### MicroPro: MICRObial PROcesses in oxygen minimum zones: From in situ community rate measurements to single cells
+### MicroPro: Microbial Processes in oxygen minimum zones: From in situ community rate measurements to single cells
 In summer 2020, a Molloy student and I are joining the MicroPro cruise to the Eastern Tropical North Pacific (ETNP) Oxygen Minimum Zone (OMZ). This is an NSF-funded project to determine rates of turnover and identities of geochemically important microbes in one of the ocean's largest ODWCs. The project is led by [Dr. Maria Pachiadaki](https://www.whoi.edu/profile/mpachiadaki/) at [WHOI](https://www.whoi.edu/).  Check back in August 2020 for updates and a cruise blog!  
 *UPDATE: Due to COVID19 this field campaign has been postponed.*
 
