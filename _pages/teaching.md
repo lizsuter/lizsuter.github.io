@@ -23,7 +23,6 @@ An introduction to the basic concepts behind the production, transformation, tra
 ### ENV2140 Water Pollution
 An introduction to the basic principles of water pollution and water pollution issues from local to global scales.
 
-
 ### ENV2570 Scientific Research Techniques 
 Writing-Intensive Course. A study of scientific research tools including
 utilization of library resources, data collections, statistical interpretation of data and skilled scientific writing. Literature research in ENV2570 is a prerequisite for research undertaken in ENV4800.
@@ -33,6 +32,7 @@ The fundamental physical, chemical, biological, and geological properties that s
 
 
 ## Teaching Outreach
+
 ### Bioinformatics Virtual Coordination Network (BVCN)
 In spring of 2020, [BVCN](https://biovcnet.github.io/) was formed in response to COVID19. Because many researchers were working from home, BVCN's aim is to help wet lab biologists learn bioinformatics skills.  All lessons and tutorials are recorded and all material is open-access.
 
@@ -50,6 +50,7 @@ I am also passionate about open-access science and educational resources and dev
 
 
 ## Courses taught previously at other institutions
+
 Undergraduate Level:
 
 * Global Change 
