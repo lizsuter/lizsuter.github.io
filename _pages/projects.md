@@ -21,6 +21,7 @@ In summer 2020, a Molloy student and I are joining the MicroPro cruise to the Ea
 <p align="center">
   <img width="400" height="250" src="/images/Breitburg2018.png">
 </p>
+
 <div style="text-align: center"> Map of the ocean's oxygen depleted regions. *Breitburg et al. 2018* </div>
 
 
@@ -41,7 +42,7 @@ In summer 2018 and 2019, we sampled at Bush Terminal Park, in Brooklyn, NY. This
 
 
 
-<img align="right" src="/images/HRE_SYBR.png" width="200px" style="padding-right: 30px">
 
 ### A Hudson River Estuary Microbial Network
+<img align="right" src="/images/HRE_SYBR.png" width="200px" style="padding-right: 30px">
 Sewage contamination is a consistent problem affecting many natural waterways. In the Hudson River, monitoring by Hudson Riverkeeper has shown that human gut-derived bacterial populations are frequently present at sites throughout the estuary. However, these events are not always necessarily linked to rainfall. Our [collaborators](https://juhl.ldeo.columbia.edu/) at [LDEO](https://www.ldeo.columbia.edu/) aim to observe and model the highly dynamic spatiotemporal variability of these populations while determining their sources and sinks in the natural environment. We are working together with them on analysis of a microbial time series from a sewage-contaminated site.
