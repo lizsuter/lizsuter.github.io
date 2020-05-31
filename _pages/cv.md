@@ -12,6 +12,7 @@ redirect_from:
 [Download my full CV here](http://lizsuter.github.io/files/CV_May2020.pdf)
 
 ## Education
+
 * Ph.D in Marine and Atmospheric Sciences, School of Marine and Atmospheric Sciences at Stony Brook University, SUNY, 2016
 * M.S. in Marine and Atmospheric Sciences, School of Marine and Atmospheric Sciences at Stony Brook University, SUNY, 2011
 * B.A. in Environmental Studies, Macauley Honors College, Hunter College, CUNY, 2009
@@ -19,24 +20,20 @@ redirect_from:
 
 
 ## Work experience
-* 2019 – Present	
-	* Assistant Professor, Tenure Track
+
+* 2019 – Present **Assistant Professor**
 	* Biology, Chemistry and Environmental Studies Department (BCES)
 	* Molloy College
-* 2017 – 2019	
-	* Assistant Professor, Tenure Track
+* 2017 – 2019 **Assistant Professor**
 	* Department of Biological Sciences
 	* Wagner College
-* 2017	
-	* Postdoctoral Associate
+* 2017	**Postdoctoral Associate**
 	* School of Marine and Atmospheric Science
 	* Stony Brook University
-* 2009-2016
-	* Graduate Research Assistant and Teaching Assistant
+* 2009-2016 **Graduate Research Assistant and Teaching Assistant**
 	* School of Marine and Atmospheric Science
 	* Stony Brook University
-* 2008-2009
-	* Undergraduate Research Assistant
+* 2008-2009 **Undergraduate Research Assistant**
 	* Lamont-Doherty Earth Observatory (LDEO)
 	* Columbia University
 
@@ -44,7 +41,7 @@ redirect_from:
 
 ## Publications
 
-###Peer-Reviewed Articles
+### Peer-Reviewed Articles
 
 Spanbauer, T., Briseno. C., Pitz, K., **Suter, E.A.** (2019) Salty sensors, fresh ideas: The use of molecular and imaging sensors in understanding plankton dynamics across marine and freshwater ecosystems. Limnol. Oceanogr., 5: 169-184. doi: [10.1002/lol2.10128](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10128).
 
@@ -64,7 +61,7 @@ Cernadas-Martín, S., **Suter, E.A.**, Scranton, M.I., Astor, Y. Taylor, G.T. (2
 
 **Suter, E.**, Juhl, A., O'Mullan, G. (2011). Particle Association for Enterococcus and Total Bacteria in the Lower Hudson River Estuary, U.S.A.  Journal of Water Resource and Protection 3: 715-725. doi: [10.4236/jwarp.2011.310082](https://www.scirp.org/journal/paperinformation.aspx?paperid=8132)
 
-###Other Publications
+### Other Publications
 
 **Suter, E.A.**, Corbo, C., Blaize, J. (2019) Creating a Winogradsky Column: A Method to Enrich the Microbial Species in a Sediment Sample. JoVE Journal of Visualized Experiments. - [Video protocol](https://www.jove.com/science-education/10506/creating-winogradsky-column-method-to-enrich-microbial-species)
 
