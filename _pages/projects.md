@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Elemental Cycling in Oxygen-Depleted Water Columns (ODWCs)
-<br/><br/>
+
 ### Cariaco Basin
 
 <img align="right" src="/images/cariaco_logo.jpg" width="200px" style="padding-right: 15px">
