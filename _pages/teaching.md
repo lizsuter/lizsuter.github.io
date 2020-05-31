@@ -7,6 +7,7 @@ author_profile: true
 <br/><br/>
 # Courses taught at Molloy College
 <img align="right" src="/images/MolloyCollege_Logo.png" width="150px" style="padding-right: 15px">
+<br/><br/>
 ### ENV1010 Introduction to Environmental Issues
 This course is an introduction to the principles of environmental issues. Content will include an overview of global conditions such as carrying capacity, population trends, agricultural issues, energy issues, water and air pollution and hazardous waste. 
 *Online.*
