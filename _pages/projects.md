@@ -18,8 +18,9 @@ ODWCs are hotspots for biogeochemical cycling by marine microbial communities. M
 In summer 2020, a Molloy student and I are joining the MicroPro cruise to the Eastern Tropical North Pacific (ETNP) Oxygen Minimum Zone (OMZ). This is an NSF-funded project to determine rates of turnover and identities of geochemically important microbes in one of the ocean's largest ODWCs. The project is led by [Dr. Maria Pachiadaki](https://www.whoi.edu/profile/mpachiadaki/) at [WHOI](https://www.whoi.edu/).  Check back in August 2020 for updates and a cruise blog!  
 *UPDATE: Due to COVID19 this field campaign has been postponed.*
 
-<img align="center" src="/images/Breitburg2018.png" width="400px" style="padding-right: 15px">  
-
+<p align="center">
+  <img width="400" height="250" src="/images/Breitburg2018.png">
+</p>
 <div style="text-align: center"> Map of the ocean's oxygen depleted regions. *Breitburg et al. 2018* </div>
 
 
