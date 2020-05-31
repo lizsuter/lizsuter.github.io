@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Publications
 
-### Peer-Reviewed Articles
+## Peer-Reviewed Articles
 
 Spanbauer, T., Briseno. C., Pitz, K., **Suter, E.A.** (2019) Salty sensors, fresh ideas: The use of molecular and imaging sensors in understanding plankton dynamics across marine and freshwater ecosystems. Limnol. Oceanogr., 5: 169-184. doi: [10.1002/lol2.10128](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10128).
 
@@ -31,7 +30,7 @@ Cernadas-Martín, S., **Suter, E.A.**, Scranton, M.I., Astor, Y. Taylor, G.T. (2
 
 **Suter, E.**, Juhl, A., O'Mullan, G. (2011). Particle Association for Enterococcus and Total Bacteria in the Lower Hudson River Estuary, U.S.A.  Journal of Water Resource and Protection 3: 715-725. doi: [10.4236/jwarp.2011.310082](https://www.scirp.org/journal/paperinformation.aspx?paperid=8132)
 
-### Other Publications
+## Other Publications
 
 **Suter, E.A.**, Corbo, C., Blaize, J. (2019) Creating a Winogradsky Column: A Method to Enrich the Microbial Species in a Sediment Sample. JoVE Journal of Visualized Experiments. - [Video protocol](https://www.jove.com/science-education/10506/creating-winogradsky-column-method-to-enrich-microbial-species)
 
