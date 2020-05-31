@@ -8,9 +8,9 @@ author_profile: true
 
 ## Elemental Cycling in Oxygen-Depleted Water Columns (ODWCs)
 <br/><br/>
-<img align="right" src="/images/cariaco_logo.jpg" width="200px" style="padding-right: 15px">
 ### Cariaco Basin
 
+<img align="right" src="/images/cariaco_logo.jpg" width="300px" style="padding-right: 15px">
 
 ODWCs are hotspots for biogeochemical cycling by marine microbial communities. My dissertation focused on the Cariaco Basin, a permanently anoxic marine basin on the northern coast of Venezuela with a unique microbiome and intense geochemical activity. I continue to collaborate with my colleagues on this project. For more information check out the [Cariaco Ocean Time-Series](http://imars.marine.usf.edu/cariaco) and especially some of the [research](http://imars.marine.usf.edu/view/biblio/803738/year) that has come out of that project.
 <br/><br/>
@@ -20,7 +20,7 @@ ODWCs are hotspots for biogeochemical cycling by marine microbial communities. M
 In summer 2020, a Molloy student and I are joining the MicroPro cruise to the Eastern Tropical North Pacific (ETNP) Oxygen Minimum Zone (OMZ). This is an NSF-funded project to determine rates of turnover and identities of geochemically important microbes in one of the ocean's largest ODWCs. The project is led by [Dr. Maria Pachiadaki](https://www.whoi.edu/profile/mpachiadaki/) at [WHOI](https://www.whoi.edu/).  Check back in August 2020 for updates and a cruise blog!  
 *UPDATE: Due to COVID19 this field campaign has been postponed.*
 
-<img align="center" src="/images/Breitburg2018.png" width="800px" style="padding-right: 15px">  
+<img align="center" src="/images/Breitburg2018.png" width="600px" style="padding-right: 15px">  
 <div style="text-align: center"> Map of the ocean's oxygen depleted regions. *Breitburg et al. 2018* </div>
 
 
