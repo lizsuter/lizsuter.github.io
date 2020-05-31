@@ -22,7 +22,7 @@ In summer 2020, a Molloy student and I are joining the MicroPro cruise to the Ea
   <img width="400" height="250" src="/images/Breitburg2018.png">
 </p>
 
-<div style="text-align: center"> Map of the ocean's oxygen depleted regions. *Breitburg et al. 2018* </div>
+<div style="text-align: center"> Map of the ocean's oxygen depleted regions, Breitburg et al. 2018 </div>
 
 
 
