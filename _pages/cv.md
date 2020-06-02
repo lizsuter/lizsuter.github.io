@@ -15,7 +15,7 @@ redirect_from:
 
 * Ph.D, Marine and Atmospheric Sciences, School of Marine and Atmospheric Sciences at Stony Brook University, SUNY, 2016
 * M.S., Marine and Atmospheric Sciences, School of Marine and Atmospheric Sciences at Stony Brook University, SUNY, 2011
-* B.A., Environmental Studies, Macauley Honors College, Hunter College, CUNY, 2009
+* B.A., Environmental Studies, Macaulay Honors College, Hunter College, CUNY, 2009
 	* Minor: Mathematics
 
 
