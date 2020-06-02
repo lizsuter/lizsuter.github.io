@@ -9,7 +9,7 @@ author_profile: true
 ## Elemental Cycling in Oxygen-Depleted Water Columns (ODWCs)
 
 ### Cariaco Basin
-<img align="right" src="/images/cariaco_logo.jpg" width="200px" style="padding-right: 15px">
+<img align="right" src="/images/cariaco_logo.jpg" width="200px" style="padding-right: 15px">&nbsp;&nbsp;
 ODWCs are hotspots for biogeochemical cycling by marine microbial communities. My dissertation focused on the Cariaco Basin, a permanently anoxic marine basin on the northern coast of Venezuela with a unique microbiome and intense geochemical activity. I continue to collaborate with my colleagues on this project. For more information check out the [Cariaco Ocean Time-Series](http://imars.marine.usf.edu/cariaco) and especially some of the [research](http://imars.marine.usf.edu/view/biblio/803738/year) that has come out of that project.
 <br/><br/>
 
@@ -44,5 +44,5 @@ In summer 2018 and 2019, we sampled at Bush Terminal Park, in Brooklyn, NY. This
 
 
 ### A Hudson River Estuary Microbial Network
-<img align="right" src="/images/HRE_SYBR.png" width="200px" style="padding-right: 100px">
+<img align="right" src="/images/HRE_SYBR.png" width="200px" style="padding-right: 50px">&nbsp;&nbsp;
 Sewage contamination is a consistent problem affecting many natural waterways. In the Hudson River, monitoring by Hudson Riverkeeper has shown that human gut-derived bacterial populations are frequently present at sites throughout the estuary. However, these events are not always necessarily linked to rainfall. Our [collaborators](https://juhl.ldeo.columbia.edu/) at [LDEO](https://www.ldeo.columbia.edu/) aim to observe and model the highly dynamic spatiotemporal variability of these populations while determining their sources and sinks in the natural environment. We are working together with them on analysis of a microbial time series from a sewage-contaminated site.
