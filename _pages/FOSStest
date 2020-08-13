@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-You can use the [editor on GitHub](https://github.com/lizsuter/fossprofile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+{% include base_path %}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Welcome to My Practice Website for FOSS2020
+
 
 ### Markdown
 
