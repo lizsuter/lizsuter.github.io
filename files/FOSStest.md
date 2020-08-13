@@ -10,12 +10,16 @@ author_profile: true
 
 ## Welcome to My Practice Website for FOSS2020
 
-I made this website using this [theme](https://academicpages.github.io/). Please check out the rest of the site.
+I made this website using this [theme](https://academicpages.github.io/). Please check out the rest of my site :grin: .
 
-I also have posted some tutorials for my students in R markdown:
-[Tutorial 1](https://lizsuter.github.io/files/PRJNA421986_PacificOyster_Dada2_postanalysis.html)
+I also use this space to post some tutorials for my students in R markdown. For example:  
+[Tutorial 1](https://lizsuter.github.io/files/PRJNA421986_PacificOyster_Dada2_postanalysis.html)  
 [Tutorial 2](https://lizsuter.github.io/files/PRJNA421986_PacificOyster_QIIME2_postanalysis.html)
 
+Here are some random things about me.
+
+This is my favorite emoji
+(And while I was figuring out how to embed that, I found an [academic paper](https://arxiv.org/pdf/1812.04863.pdf) on the usage of emojis among github users)
 
 ### Here's some Markdown
 
