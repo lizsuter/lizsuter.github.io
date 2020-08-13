@@ -10,8 +10,10 @@ author_profile: true
 
 ## Welcome to My Practice Website for FOSS2020
 
+I made this website using this [theme](https://academicpages.github.io/)
 
-### Markdown
+
+### Here's some Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
