@@ -12,6 +12,10 @@ redirect_from:
 
 ## Peer-Reviewed Articles
 
+**Suter, E.A.**, Pachiadaki, M. Edgcomb, V., Scranton M., Montes, E. Taylor, G.T. (2020) Diverse nitrogen cycling pathways across a marine oxygen gradient indicate a decoupling from organic matter degradation. In press at Environmental Microbiology. doi: [10.1111/1462‐2920.15187](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15187).
+
+Mara, P., Vik, D., Pachiadaki, M.G., Suter, E.A., Taylor, G.T., Sullivan, M., Poulos, B., Edgcomb V.P. (2020) Viruses and their auxiliary metabolic genes along the redoxcline of the permanently stratified Cariaco Basin. *In press at* The ISME Journal.
+
 Spanbauer, T., Briseno. C., Pitz, K., **Suter, E.A.** (2019) Salty sensors, fresh ideas: The use of molecular and imaging sensors in understanding plankton dynamics across marine and freshwater ecosystems. Limnol. Oceanogr., 5: 169-184. doi: [10.1002/lol2.10128](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10128).
 
 **Suter, E.A.**, Pachiadaki, M. Taylor, G.T., Y. Astor, Edgcomb, V. (2018) Free-living chemoautotrophic and particle-associated heterotrophic prokaryotes dominate microbial assemblages along a pelagic redox gradient. Environmental Microbiology, 20(2):693-712. doi: [10.1111/1462-2920.13997](https://pubmed.ncbi.nlm.nih.gov/29160034/?otool=nyjetmclib).
