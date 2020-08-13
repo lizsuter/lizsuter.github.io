@@ -36,8 +36,8 @@ Cernadas-Martín, S., **Suter, E.A.**, Scranton, M.I., Astor, Y. Taylor, G.T. (2
 
 ## Other Publications
 
-**Educational Modules:**  
-Goni, M., Gownaris, N., Suter, E.A., Lichtenwalner, C. S. Our Dynamic Ocean: Surface and Subsurface Interactions from Coast-to-Coast. In development at [Ocean Observatories Initiative 2019 Data Labs Collection](https://datalab.marine.rutgers.edu/explorations/2019/)
+<u>**Educational Modules:**  </u>
+Goni, M., Gownaris, N., **Suter, E.A.**, Lichtenwalner, C. S. Our Dynamic Ocean: Surface and Subsurface Interactions from Coast-to-Coast. In development at [Ocean Observatories Initiative 2019 Data Labs Collection](https://datalab.marine.rutgers.edu/explorations/2019/)
 
 **Suter, E.A.**, Corbo, C., Blaize, J. (2019) Creating a Winogradsky Column: A Method to Enrich the Microbial Species in a Sediment Sample. JoVE Journal of Visualized Experiments. - [Video protocol](https://www.jove.com/science-education/10506/creating-winogradsky-column-method-to-enrich-microbial-species)
 
@@ -45,7 +45,7 @@ Corbo, C., Blaize, J., **Suter, E.A.** (2019) Enrichment Cultures: Culturing Aer
 
 Blaize, J., **Suter, E.A.**, Corbo, C. (2019) Serial Dilutions and Plating: Microbial Enumeration. JoVE Journal of Visualized Experiments. - [Video protocol](https://www.jove.com/science-education/10507/serial-dilutions-and-plating-microbial-enumeration)
 
-**Protocols:**  
+<u>**Protocols:**  </u>
 Taylor, G.T., Li, Z.Q., **Suter E.A.**, Chow, S.C. (2017) Modified Filter-Transfer-Freeze ("FTF") Technique for Raman Microspectroscopic Analysis of Single Cells. Protocols.io. doi: [10.17504/protocols.io.ikqccvw](https://www.protocols.io/view/modified-filter-transfer-freeze-ftf-technique-for-ikqccvw)
 
 
