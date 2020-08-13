@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "FOSStest"
+title: "FOSS 2020"
 permalink: /FOSStest/
 author_profile: true
 ---
@@ -10,7 +10,11 @@ author_profile: true
 
 ## Welcome to My Practice Website for FOSS2020
 
-I made this website using this [theme](https://academicpages.github.io/)
+I made this website using this [theme](https://academicpages.github.io/). Please check out the rest of the site.
+
+I also have posted some tutorials for my students in R markdown:
+[Tutorial 1](https://lizsuter.github.io/files/PRJNA421986_PacificOyster_Dada2_postanalysis.html)
+[Tutorial 2](https://lizsuter.github.io/files/PRJNA421986_PacificOyster_QIIME2_postanalysis.html)
 
 
 ### Here's some Markdown
@@ -35,12 +39,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lizsuter/fossprofile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
