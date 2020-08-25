@@ -10,7 +10,7 @@ author_profile: true
 
 ## Welcome to My Practice Website for FOSS 2020
 
-*I made this website using this [theme](https://academicpages.github.io/). Please check out the rest of my site*
+*I made my website using this [theme](https://academicpages.github.io/). Please feel free to check out the rest of the site.*
 
 ***
 I use github to to post some tutorials for my students in R markdown. For example:  
