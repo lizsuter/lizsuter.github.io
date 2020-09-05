@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Code of Conduct"
+title: "Lab Code-of-Conduct"
 permalink: /COC/
 author_profile: true
 ---
@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-## Lab Code of Conduct
 ###### Updated 2020-09-05
 
 *This document serves as a set of policies and guidelines for general research activities while working with my lab group and is largely based on Megan Duffy’s [COC](https://duffylab.wordpress.com/lab-guidelines/) from UMichigan.*
