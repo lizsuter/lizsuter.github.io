@@ -12,7 +12,7 @@ redirect_from:
 
 ## Peer-Reviewed Articles
 
-**Suter, E.A.**, Pachiadaki, M. Edgcomb, V., Scranton M., Montes, E. Taylor, G.T. (2020) Diverse nitrogen cycling pathways across a marine oxygen gradient indicate a decoupling from organic matter degradation. Environmental Microbiology. doi: [10.1111/1462‐2920.15187](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15187).
+**Suter, E.A.**, Pachiadaki, M. Edgcomb, V., Scranton M., Montes, E. Taylor, G.T. (2020) Diverse nitrogen cycling pathways across a marine oxygen gradient indicate nitrogen loss coupled to chemoautotrophic activity. Environmental Microbiology, doi: [10.1111/1462‐2920.15187](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15187).
 
 Mara, P., Vik, D., Pachiadaki, M.G., **Suter, E.A.**, Taylor, G.T., Sullivan, M., Poulos, B., Edgcomb V.P. (2020) Viruses and their auxiliary metabolic genes along the redoxcline of the permanently stratified Cariaco Basin. ISME Journal. doi: [10.1038/s41396-020-00739-3](https://www.nature.com/articles/s41396-020-00739-3)
 
