@@ -5,20 +5,31 @@ permalink: /for-students/
 author_profile: true
 ---
 <br/>
-*If you are a student interested in joining the lab for a summer research experience or for your science research credits, please get in contact: esuter (at) molloy.edu*
-<br/>
+
 
 ## Table of Contents
 
-- [Code-of-Conduct](#code-of-conduct)
-- [General Recommendations for Undergraduate Researchers](#general-recommendations-for-undergraduate-researchers)
 - [Requesting Letters of Recommendation](#requesting-letters-of-recommendation)
+- [Joining the Lab](#joining-the-lab)
+	- [Code-of-Conduct](#code-of-conduct)
+	- [General Recommendations for Undergraduate Researchers](#general-recommendations-for-undergraduate-researchers)
 - [References](#references)
-
 
 <br/>
 
-## Code-of-Conduct
+## Requesting Letters of Recommendation
+If you need a letter of recommendation, please email me directly and fill out this [form](http://lizsuter.github.io/files/InstructionsforRequestingLettersofRec.pdf), which will help me write the best letter possible for you.
+
+Please give me a month before the deadline to start working on your letter. 
+
+<br/>
+
+## Joining the Lab
+*If you are a student interested in joining the lab for a summer research experience or for your science research credits, please get in contact: esuter (at) molloy.edu*
+
+<br/>
+
+### Code-of-Conduct
 
 All members of this research group are required to read and agree to this CoC.
 
@@ -57,9 +68,10 @@ Please check email/Slack regularly (excluding holidays and weekends).
 
 **Data sharing** In our group, we aim to adhere to [Open Science policies](https://book.fosteropenscience.eu/en/). As you work through pipelines, you will be asked to share your scripts in a version control environment (like [GitHub](https://github.com/)). You will also be producing data files as you go. These should be shared with the lab group in whatever format is appropriate and the final files should be shared publicly (in a place like [NCBI](https://www.ncbi.nlm.nih.gov/) or [OSF](https://osf.io/dashboard)). I will help support you through using these resources and making your science open access.
 
+<br/>
 
 
-## General Recommendations for Undergraduate Researchers
+### General Recommendations for Undergraduate Researchers
 Research is not based on clear-cut assignments and due dates. It is a cyclical process in which you plan, read, collect data, analyze, read some more, share your ideas, share your results, and constantly reconfigure your approach and reassess your ideas.
 
 <p align="center">
@@ -97,14 +109,7 @@ Two things that can be a challenge for all of us are: 1) thinking we need to do 
 
 Check out this [example](https://www.youtube.com/watch?v=JH0_xC7q9tU) of the "How science works" process in action in Oceanography.
 
-
-
-## Requesting Letters of Recommendation
-If you need a letter of recommendation, please email me directly and fill out this [form](http://lizsuter.github.io/files/InstructionsforRequestingLettersofRec.pdf), which will help me write the best letter possible for you.
-
-Please give me a month before the deadline to start working on your letter. 
-
-
+<br/>
 
 ## References
 Much of the above is based on policies and guidelines developed by other groups:
