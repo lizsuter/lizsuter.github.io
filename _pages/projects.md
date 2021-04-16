@@ -56,4 +56,4 @@ Sewage contamination is a consistent problem affecting many natural waterways. I
 
 - Project [repo](https://github.com/lizsuter/SCM_eDNA)
 - DADA2 pipeline [notebook](https://lizsuter.github.io/files/DADA2_pipeline_SCM_eDNA.nb.html)
-- Ecological Analysis [notebook](https://lizsuter.github.io/files/Ecol_analysis.nb.html)... *work in progress*
+- Ecological Analysis [notebook](https://lizsuter.github.io/files/Ecol_Analysis.nb.html)... *work in progress*
