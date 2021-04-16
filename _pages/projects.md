@@ -32,7 +32,10 @@ In summer 2020, a Molloy student and I are joining the MicroPro cruise to the Ea
 
 ### Shellfish Microbiomes & Disease
 In summer 2020, we planned to assess the health of recently restored oysters and clams by sampling their microbiomes across a pollution gradient in Great South Bay (Long Island, NY). This work has been postposed due to COVID19. Instead, Molloy research students this summer are assessing shellfish microbiomes from publicy available datasets from around the world. Check back soon for updates.
-<br/><br/>
+
+- Project [repo](https://github.com/lizsuter/MarineAnimalDisease)
+- [DADA2 tutorial](https://lizsuter.github.io/files/PRJNA421986_PacificOyster_Dada2_postanalysis.html)  
+- [QIIME2 tutorial](https://lizsuter.github.io/files/PRJNA421986_PacificOyster_QIIME2_postanalysis.html)
 
 
 ### Ecosystem Services of Restored Oyster Reefs
@@ -47,3 +50,10 @@ In summer 2018 and 2019, we sampled at Bush Terminal Park, in Brooklyn, NY. This
 <img align="right" src="/images/HRE_SYBR.png" width="250px" style="padding-right: 50px">
 Sewage contamination is a consistent problem affecting many natural waterways. In the Hudson River, monitoring by Hudson Riverkeeper has shown that human gut-derived bacterial populations are frequently present at sites throughout the estuary. However, these events are not always necessarily linked to rainfall. Our [collaborators](https://juhl.ldeo.columbia.edu/) at [LDEO](https://www.ldeo.columbia.edu/) aim to observe and model the highly dynamic spatiotemporal variability of these populations while determining their sources and sinks in the natural environment. We are working together with them on analysis of a microbial time series from a sewage-contaminated site.
 
+### Shinnecock Bay eDNA Project
+
+*Description coming soon*
+
+- Project [repo](https://github.com/lizsuter/SCM_eDNA)
+- DADA2 pipeline [notebook](https://lizsuter.github.io/files/DADA2_pipeline_SCM_eDNA.nb.html)
+- Ecological Analysis [notebook](https://lizsuter.github.io/files/Ecol_analysis.nb.html)... *work in progress*

@@ -52,7 +52,7 @@ In addition to the above organizations, I am a trained [Tiny Earth](https://tiny
 * Global Change 
 * Long Island Sound: Science and Use 
 
-### Masters Level:
+### Graduate Level:
 
 * Biochemistry I & II with lab
 * Microbial Ecology with lab
