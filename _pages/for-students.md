@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Info For Students"
+title: "Information For Students"
 permalink: /for-students/
 author_profile: true
 ---
@@ -100,7 +100,7 @@ Check out this [example](https://www.youtube.com/watch?v=JH0_xC7q9tU) of the "Ho
 
 
 ## Requesting Letters of Recommendation
-If you need a letter of recommendation, please email me directly and fill out this [form](http://lizsuter.github.io/files/InstructionsforRequestingLettersofRec.docx), which will help me write the best letter possible for you.
+If you need a letter of recommendation, please email me directly and fill out this [form](http://lizsuter.github.io/files/InstructionsforRequestingLettersofRec.pdf), which will help me write the best letter possible for you.
 
 Please give me a month before the deadline to start working on your letter. 
 
