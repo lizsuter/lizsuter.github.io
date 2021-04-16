@@ -7,7 +7,6 @@ author_profile: true
 <br/>
 
 
-## Table of Contents
 
 - [Requesting Letters of Recommendation](#requesting-letters-of-recommendation)
 - [Joining the Lab](#joining-the-lab)
@@ -28,6 +27,9 @@ Please give me a month before the deadline to start working on your letter.
 *If you are a student interested in joining the lab for a summer research experience or for your science research credits, please get in contact: esuter (at) molloy.edu*
 
 <br/>
+
+---
+
 
 ### Code-of-Conduct
 
@@ -70,6 +72,7 @@ Please check email/Slack regularly (excluding holidays and weekends).
 
 <br/>
 
+---
 
 ### General Recommendations for Undergraduate Researchers
 Research is not based on clear-cut assignments and due dates. It is a cyclical process in which you plan, read, collect data, analyze, read some more, share your ideas, share your results, and constantly reconfigure your approach and reassess your ideas.
@@ -105,9 +108,11 @@ Two things that can be a challenge for all of us are: 1) thinking we need to do 
 
 **Be curious and enjoy the science.** Take the time to intellectually grow and enjoy the process of discovery. It is very rewarding. Don’t be afraid to discuss your scientific curiosities with me and the rest of the group.
 
+<br/>
+
 ---
 
-Check out this [example](https://www.youtube.com/watch?v=JH0_xC7q9tU) of the "How science works" process in action in Oceanography.
+Check out this [example](https://www.youtube.com/watch?v=JH0_xC7q9tU) of the "How science works" process in oceanography.
 
 <br/>
 
