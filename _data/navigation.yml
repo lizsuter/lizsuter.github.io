@@ -13,7 +13,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Info For Students
-    url: /for-students/
-
-      
+  - title: "Info For Students"
+    url: /for-students/     
