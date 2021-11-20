@@ -6,51 +6,23 @@ author_profile: true
 ---
 
 
-## Elemental Cycling in Oxygen-Depleted Water Columns (ODWCs)
+### Elemental Cycling in Oxygen-Depleted Water Columns (ODWCs)
 
-### Cariaco Basin
+
 <img align="right" src="/images/cariaco_logo.jpg" width="200px" style="padding-right: 15px">
-ODWCs are hotspots for biogeochemical cycling by marine microbial communities. My dissertation focused on the Cariaco Basin, a permanently anoxic marine basin on the northern coast of Venezuela with a unique microbiome and intense geochemical activity. I continue to collaborate with my colleagues on this project. For more information check out the [Cariaco Ocean Time-Series](http://imars.marine.usf.edu/cariaco) and especially some of the [research](http://imars.marine.usf.edu/view/biblio/803738/year) that has come out of that project.
 
-<br/>
-
-<br/>
-
-
-### MicroPro: Microbial Processes in oxygen minimum zones: From in situ community rate measurements to single cells
-In summer 2020, a Molloy student and I are joining the MicroPro cruise to the Eastern Tropical North Pacific (ETNP) Oxygen Minimum Zone (OMZ). This is an NSF-funded project to determine rates of turnover and identities of geochemically important microbes in one of the ocean's largest ODWCs. The project is led by [Dr. Maria Pachiadaki](https://www.whoi.edu/profile/mpachiadaki/) at [WHOI](https://www.whoi.edu/).  Check back for updates and a cruise blog!  
-*UPDATE: Due to COVID19 this field campaign has been postponed.*
-
-<p align="center">
-  <img width="450" height="250" src="/images/Breitburg2018.png">
-</p>
-
-<div style="text-align: center"> Map of the ocean's oxygen depleted regions, Breitburg et al. 2018 </div>
-
+ODWCs are hotspots for biogeochemical cycling by marine microbes. My research has focused on deciphering the roles of these unique microbiomes in global biogeochemical cycling by using genomic and geochemical techniques. For more information check out the [Cariaco Ocean Time-Series project](http://imars.marine.usf.edu/cariaco).
 
 
 
 <br/><br/>
-## Coastal Ecosystem Resilience
 
-### Ecosystem Services of Restored Oyster Reefs
+### Microbial Communities of Restored Oyster Reefs
 <img align="left" src="/images/Summer2019.jpg" width="200px" style="padding-right: 15px">
-Bush Terminal Park, in Brooklyn, NY, is an urban park with a long history of industrial pollution. In recent years, this park has been restored and is currently the location of community oyster reefs  maintained by the [Billion Oyster Project](https://www.billionoysterproject.org/). In the last several years, my students have developed projects focusing on the role of microbes at this site, their interactions with heavy metals and plastics, and the potential for microbial sewage contamination remediation.
+New York Harbor used to full of oysters, but their populations are less than 0.1% of their previous abundances. The [Billion Oyster Project](https://www.billionoysterproject.org/) builds and maintains community reefs for restoring the oyster back to NY waterways. Reefs have varying successes and failures. Some of this may be due to bacterial pathogens, which are causing disease in marine animals all over the world due to warming water temperatures. 
 
+We are developing a bacterial health monitoring tool using third generation sequencing techniques to help restoration managers determine the onset of bacterial diseases in oyster reefs.
 <br/>
-
-<br/>
-
-### Shellfish Microbiomes & Disease
-Recently I obtained funding to develop a bacterial health monitoring tool using third generation sequencing techniques. The project, funded by the NYS Water Resources Institute at Cornell University and the NYS Department of Environmental Conservation Hudson River Estuary Program, with support from the NYS Environmental Protection Fund, will focus on developing a user-friendly genetic monitoring tool to determine the onset of bacterial pathogens. *I am currently recruiting students for this project.*
-
-<br/>
-
-In summer 2020, research students from [NSURP](https://nsurp.org/) and Molloy research students from [CSTEP](http://www.nysed.gov/postsecondary-services/collegiate-science-and-technology-entry-program-cstep) worked on virtual research projects by developing pipelines to assess the incidence of pathogens in published marine invertebrate microbiomes. Check back soon for updates. 
-
-- Project [repo](https://github.com/lizsuter/MarineAnimalDisease)
-- [DADA2 tutorial](https://lizsuter.github.io/files/PRJNA421986_PacificOyster_Dada2_postanalysis.html)  
-- [QIIME2 tutorial](https://lizsuter.github.io/files/PRJNA421986_PacificOyster_QIIME2_postanalysis.html)
 
 <br/>
 

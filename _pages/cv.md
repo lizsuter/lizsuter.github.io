@@ -25,14 +25,17 @@ redirect_from:
 * 2019 – Present: **Assistant Professor**
 	* Biology, Chemistry and Environmental Studies Department (BCES)
 	* Molloy College
+* 2021: **Adjunct Instructor**
+	* School of Marine and Atmospheric Science (SoMAS)
+	* Stony Brook University
 * 2017 – 2019: **Assistant Professor**
 	* Department of Biological Sciences
 	* Wagner College
 * 2017:	**Postdoctoral Associate**
-	* School of Marine and Atmospheric Science
+	* School of Marine and Atmospheric Science (SoMAS)
 	* Stony Brook University
 * 2009-2016: **Graduate Research Assistant and Teaching Assistant**
-	* School of Marine and Atmospheric Science
+	* School of Marine and Atmospheric Science (SoMAS)
 	* Stony Brook University
 * 2008-2009: **Undergraduate Research Assistant**
 	* Lamont-Doherty Earth Observatory (LDEO)
