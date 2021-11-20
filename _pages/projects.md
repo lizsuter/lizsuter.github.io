@@ -19,9 +19,9 @@ ODWCs are hotspots for biogeochemical cycling by marine microbes. My research ha
 
 ### Microbial Communities of Restored Oyster Reefs
 <img align="left" src="/images/Summer2019.jpg" width="200px" style="padding-right: 15px">
-New York Harbor used to full of oysters, but their populations are less than 0.1% of their previous abundances. The [Billion Oyster Project](https://www.billionoysterproject.org/) builds and maintains community reefs for restoring the oyster back to NY waterways. Reefs have varying successes and failures. Some of this may be due to bacterial pathogens, which are causing disease in marine animals all over the world due to warming water temperatures. 
+New York Harbor used to be full of oysters, but their populations are less than 0.1% of their previous abundances. The [Billion Oyster Project](https://www.billionoysterproject.org/) builds and maintains community reefs for restoring the oyster back to NY waterways. Reefs have varying successes and failures. Some of this may be due to bacterial pathogens, which are causing disease in marine animals all over the world due to warming water temperatures. 
 
-We are developing a bacterial health monitoring tool using third generation sequencing techniques to help restoration managers determine the onset of bacterial diseases in oyster reefs.
+We are developing a bacterial health monitoring tool that uses third generation sequencing techniques to help restoration managers determine the onset of bacterial diseases in oyster reefs.
 <br/>
 
 <br/>
