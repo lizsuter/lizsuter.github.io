@@ -9,25 +9,39 @@ author_profile: true
 # Courses taught at Molloy College
 ### ENV1010 Introduction to Environmental Issues
 This course is an introduction to the principles of environmental issues. Content will include an overview of global conditions such as carrying capacity, population trends, agricultural issues, energy issues, water and air pollution and hazardous waste. 
-*Online.*
 
 *See this [tweet](https://twitter.com/LizzSuter/status/1259940863532240897) about the final projects produced by ENV1010 students in  Spring 2020.*
-
-### ESC1270 Rocks & Minerals
-This course will study the materials that make-up the earth: their origin and identification. This course will allow the student to understand the relationship between the elements that make up the physical universe and the minerals and rocks that make up the Earth. By using fundamental scientific principles, the student will be able to differentiate between the various materials found in the Earth, interpret the significance of these materials and understand their interrelationships, leading to an appreciation of the role of the chemical components in the development of the Earth’s structure and dynamics.
-
-### ENV2130 Air Pollution
-An introduction to the basic concepts behind the production, transformation, transport, and removal of air pollutants.  Health and Environmental effects of air pollution will also be covered.
 
 ### ENV2140 Water Pollution
 An introduction to the basic principles of water pollution and water pollution issues from local to global scales.
 
+
+### ENV2130 Air Pollution
+An introduction to the basic concepts behind the production, transformation, transport, and removal of air pollutants.  Health and Environmental effects of air pollution will also be covered.
+
 ### ENV2570 Scientific Research Techniques 
-Writing-Intensive Course. A study of scientific research tools including
-utilization of library resources, data collections, statistical interpretation of data and skilled scientific writing. Literature research in ENV2570 is a prerequisite for research undertaken in ENV4800.
+Writing-Intensive Course. A study of scientific research tools including utilization of library resources, data collections, statistical interpretation of data and skilled scientific writing. Literature research in ENV2570 is a prerequisite for research undertaken in ENV4800.
+
+### ENV4800 Research in Environmental Sciences I
+Majors in the Earth and Environmental Studies Program/Environmental Studies Concentration undertake a research project that entails refining an experimental design, laboratory work, data collection and data analysis. Library research and preliminary experimental design must be completed in ENV 2570. Student groups established in ENV 2570 will continue to investigate the identified problem or question. Students will be instructed in basic laboratory and research methods during the progression and completion of their research project. 
+
+### ENV4910 Research Thesis
+Writing-Intensive Course. Students in the Environmental Studies concentration in the Earth and Environmental Studies BS Degree program will expand on their reporting skills during a dissemination and defense of their specific results obtained in ENV 4800. This work will be performed independently under the supervision of the faculty mentor from ENV 4800. In addition to a final written thesis, students will be required to present their work at a departmental colloquium. 
+
+### ESC1270 Rocks & Minerals
+This course will study the materials that make-up the earth: their origin and identification. This course will allow the student to understand the relationship between the elements that make up the physical universe and the minerals and rocks that make up the Earth. By using fundamental scientific principles, the student will be able to differentiate between the various materials found in the Earth, interpret the significance of these materials and understand their interrelationships, leading to an appreciation of the role of the chemical components in the development of the Earth’s structure and dynamics.
 
 ### ENV Independent Study: Foundations of Oceanography
 The fundamental physical, chemical, biological, and geological properties that shape the oceans are examined, with emphasis on how processes interact to create the underlying oceanic phenomena that we observe today.
+
+
+
+<br/><br/>
+<img align="right" src="/images/sbu_logo_stacked_vert.jpeg" width="150px" style="padding-right: 15px">
+# Courses taught at Stony Brook University
+
+### MAR340 Environmental Problems and Solutions
+A detailed examination of the scientific, social, and legal aspects of important environmental problems, including global climate change, the depletion of atmospheric ozone, acid rain, rain forests and the loss of biodiversity, and energy conservation, as well as case histories of problems such as the use of DDT, environmental carcinogens, and lead poisoning.
 
 <br/><br/>
 # Teaching Outreach
