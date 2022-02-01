@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Peer-Reviewed Articles
-**Suter, E.A.**, Pachiadaki, M., Taylor, G.T., Edgcomb, V.E. (2022) Eukaryotic parasites are integral to a productive microbial food web in oxygen-depleted waters. <i>Frontiers in Microbiology</i>, doi: [10.3389/fmicb.2021.764605](https://www.frontiersin.org/articles/10.3389/fmicb.2021.764605/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Microbiology&id=764605)
+**Suter, E.A.**, Pachiadaki, M., Taylor, G.T., Edgcomb, V.E. (2022) Eukaryotic parasites are integral to a productive microbial food web in oxygen-depleted waters. <i>Frontiers in Microbiology</i>, doi: [10.3389/fmicb.2021.764605](https://www.frontiersin.org/articles/10.3389/fmicb.2021.764605/full)
 
 Tully, B.J, Buongiorno, J. Cohen, A.B., Cram, J.A., Garber, A.I., Hu, S.K., Krinos, A.I., Leftwich, P.T., Marshall, A., Sieradzki, E.T., Speth, D.R. **Suter, E.A.**, Trivedi, C.B., Valentin-Alvarado, L.E., Weissman, J.L, Lee, M.D, Alexander, H., Collins, R.E., Pachiadaki, M., Rhodes, A.C.E, Decatur, W. (2021) The Bioinformatics Virtual Coordination Network: An open-source and interactive learning environment. <i>Frontiers in Education</i>. doi: [10.3389/feduc.2021.711618](https://www.frontiersin.org/articles/10.3389/feduc.2021.711618/full).
 
