@@ -43,6 +43,8 @@ Cernadas-Martín, S., **Suter, E.A.**, Scranton, M.I., Astor, Y. Taylor, G.T. (2
 
 <ins>**Educational Modules:**  </ins>  
 
+Bioinformatics Virtual Coordination Network: [Home page](https://biovcnet.github.io/), [Wiki](https://github.com/biovcnet/biovcnet.github.io/wiki), and [Videos](https://www.youtube.com/@bioinformaticsvirtualcoord1801/featured)
+
 **Suter, E.A.**, Corbo, C., Blaize, J. (2019) Creating a Winogradsky Column: A Method to Enrich the Microbial Species in a Sediment Sample. JoVE Journal of Visualized Experiments. - [Video protocol](https://www.jove.com/science-education/10506/creating-winogradsky-column-method-to-enrich-microbial-species)
 
 Corbo, C., Blaize, J., **Suter, E.A.** (2019) Enrichment Cultures: Culturing Aerobic and Anaerobic Microbes on Selective and Differential Media. JoVE Journal of Visualized Experiments. - [Video protocol](https://www.jove.com/science-education/10508/enrichment-cultures-culturing-aerobic-anaerobic-microbes-on-selective)
