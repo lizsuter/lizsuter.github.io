@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Microbial Ecology Lab at Molloy College"
+title: "Microbial Ecology Lab at Molloy University"
 excerpt: "Microbial Ecology Lab"
 author_profile: true
 redirect_from: 
