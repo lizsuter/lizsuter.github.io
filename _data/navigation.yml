@@ -10,6 +10,9 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Lab News"
+    url: /lab-news/
+    
   - title: "CV"
     url: /cv/
     
