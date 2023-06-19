@@ -6,21 +6,23 @@ author_profile: true
 ---
 <br/><br/>
 <img align="right" src="/images/Molloy_University_logo.png" width="150px" style="padding-right: 15px">
-# Courses taught at Molloy College
+# Courses taught at Molloy University
 ### ENV1010 Introduction to Environmental Issues
 This course is an introduction to the principles of environmental issues. Content will include an overview of global conditions such as carrying capacity, population trends, agricultural issues, energy issues, water and air pollution and hazardous waste. 
 
 *See this [tweet](https://twitter.com/LizzSuter/status/1259940863532240897) about the final projects produced by ENV1010 students in  Spring 2020.*
 
-### ENV2140 Water Pollution
-An introduction to the basic principles of water pollution and water pollution issues from local to global scales.
+### ENV 1020 Foundations of Earth Systems Science
+The Earth functions as a set of interacting components from the lithosphere, hydrosphere, biosphere, and atmosphere. In this course, students will learn what is meant by a systems approach to earth and environmental sciences and how the Earth systems are a large set of cooperative, self-regulating processes driven by thermodynamics. The course will also discuss how these processes contributed to early evolution of life on the planet and how modern day processes such as climate change are impacted or amplified by natural feedbacks.
 
-
-### ENV2130 Air Pollution
-An introduction to the basic concepts behind the production, transformation, transport, and removal of air pollutants.  Health and Environmental effects of air pollution will also be covered.
+### ENV 2250 Air and Water Pollution
+An introduction to the basic principles of pollution. Students will discuss pollution issues from local to global scales, learn how these have been handled historically, and gain an appreciation for emerging contaminants. The course will focus on the transport and impacts of pollution in ecosystems, and how scientific studies are used to improve environmental conditions. 3 hours lecture weekly.
 
 ### ENV2570 Scientific Research Techniques 
 Writing-Intensive Course. A study of scientific research tools including utilization of library resources, data collections, statistical interpretation of data and skilled scientific writing. Literature research in ENV2570 is a prerequisite for research undertaken in ENV4800.
+
+### ENV3300 Data Analysis in the Environmental Sciences
+Students will develop skills in data analysis and visualization in the environmental sciences. Techniques for manipulating large datasets, applying appropriate statistical tests, and visualizing complex patterns will be taught through project-based learning. Real environmental datasets such as time series, ecological monitoring data, and geospatial data will be analyzed.
 
 ### ENV4800 Research in Environmental Sciences I
 Majors in the Earth and Environmental Studies Program/Environmental Studies Concentration undertake a research project that entails refining an experimental design, laboratory work, data collection and data analysis. Library research and preliminary experimental design must be completed in ENV 2570. Student groups established in ENV 2570 will continue to investigate the identified problem or question. Students will be instructed in basic laboratory and research methods during the progression and completion of their research project. 
@@ -28,12 +30,8 @@ Majors in the Earth and Environmental Studies Program/Environmental Studies Conc
 ### ENV4910 Research Thesis
 Writing-Intensive Course. Students in the Environmental Studies concentration in the Earth and Environmental Studies BS Degree program will expand on their reporting skills during a dissemination and defense of their specific results obtained in ENV 4800. This work will be performed independently under the supervision of the faculty mentor from ENV 4800. In addition to a final written thesis, students will be required to present their work at a departmental colloquium. 
 
-### ESC1270 Rocks & Minerals
-This course will study the materials that make-up the earth: their origin and identification. This course will allow the student to understand the relationship between the elements that make up the physical universe and the minerals and rocks that make up the Earth. By using fundamental scientific principles, the student will be able to differentiate between the various materials found in the Earth, interpret the significance of these materials and understand their interrelationships, leading to an appreciation of the role of the chemical components in the development of the Earth’s structure and dynamics.
-
 ### ENV Independent Study: Foundations of Oceanography
 The fundamental physical, chemical, biological, and geological properties that shape the oceans are examined, with emphasis on how processes interact to create the underlying oceanic phenomena that we observe today.
-
 
 
 <br/><br/>
