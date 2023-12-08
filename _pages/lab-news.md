@@ -7,6 +7,8 @@ author_profile: true
 <br/>
 
 ### 2023
+- [Funded for Restoring Coastlines and Retaining Students From Underrepresented Groups](https://www.adelphi.edu/news/funded-for-restoring-coastlines-and-retaining-students-from-underrepresented-groups/)
+- [Gino Macchio Foundation and Molloy University team up to study oyster population](https://tbrnewsmedia.com/gino-macchio-foundation-and-molloy-university-team-up-to-study-oyster-population/)
 - [Graduate Represents Molloy on Research Cruise](https://www.molloy.edu/news/graduate-represents-molloy-on-research-cruise)
 - Research students, Joe and Matt, receive [1st](https://projectboard.world/sigmaxi/project/abundance-and-diversity-of-oyster-microbiomes) and [2nd](https://projectboard.world/sigmaxi/project/oyster-pathogen-monitoring-using-third-generation-sequencers) place for undergraduate research at the Sigma Xi conference. [Congrats!](https://www.instagram.com/p/CsY-6-3MaAw/)
 - Research students Dominique, Emily, Joe, and Matt present their undergraduate theses at the BCES Research Colloquium. [Congrats!](https://www.instagram.com/p/CrUf26tt0tk/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
@@ -16,7 +18,7 @@ author_profile: true
 
 ### 2022
 
-- Research student, Matt, is awarded a fellowship through the [ASLO-MP](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/) program to present his work on oyster pathogens at the ASLO meeting in Mallorca, Spain this coming summer. [Congrats Matt!](https://www.instagram.com/p/CmHq2hiP7yY/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+- Research student, Matt, is awarded a fellowship through the [ASLO-MP](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/) program to present his work on oyster pathogens at the ASLO meeting in Mallorca, Spainmo. [Congrats Matt!](https://www.instagram.com/p/CmHq2hiP7yY/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 
 ### 2021
