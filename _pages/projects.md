@@ -13,7 +13,9 @@ author_profile: true
 
 As they transit through water, marine animals leave behind cellular material, which can be filtered and their environmental DNA ("eDNA") extracted and sequenced to determine their taxonomic identity. This approach is being used to determine presence, absence, and diversity of marine animals, including rare species that are difficult to detect by traditional methods. I collaborate with the [Institute for Ocean Conservation Science](https://www.oceanconservationscience.org/), [Shinnecock Bay Restoration Program](https://www.shinnecockbay.org/) and the [Gino Macchio Foundation](https://ginomacchiofoundation.com/) in the lagoons on the south shore of Long Island. We are building and implementing the eDNA approach to determine distributions of fishes, rays, and sharks, and other top vertebrate predators in order to determine the impact of restoration on broader marine biodiversity, and the resiliency of these ecosystems in the face of climate change.
 
-<img align="center" src=https://tos.org/oceanography/assets/images/content/34-2-chavez-f2.jpg width="600px" style="padding-right: 15px">
+
+![Chavez et al.](https://tos.org/oceanography/assets/images/content/34-2-chavez-f2.jpg)
+
 
 Image from [Chavez et al. 2021](https://tos.org/oceanography/article/observing-life-in-the-sea-using-environmental-dna)
 <br/>
@@ -37,10 +39,10 @@ ODWCs are hotspots for biogeochemical cycling by marine microbes. My research ha
 
 <br/>
 
-#### Example Analyses and Lab Notebooks:
+### Example Analyses and Lab Notebooks:
 
-- [Bioinformatic pipeline](https://lizsuter.github.io/files/DADA2_pipeline_SCM_eDNA.nb.html)
-- [Ecological Metrics and Statistics across Environmental Gradients](https://lizsuter.github.io/files/Ecol_Analysis.nb.html)
+- [Example Bioinformatic pipeline](https://lizsuter.github.io/files/DADA2_pipeline_SCM_eDNA.nb.html)
+- [Ecological Statistics across Environmental Gradients](https://lizsuter.github.io/files/Ecol_Analysis.nb.html)
 - [Building eDNA Reference Databases](https://github.com/lizsuter/eDNA-databases)
 
 <br/>

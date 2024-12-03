@@ -10,7 +10,6 @@ author_profile: true
 ### ENV1010 Introduction to Environmental Issues
 This course is an introduction to the principles of environmental issues. Content will include an overview of global conditions such as carrying capacity, population trends, agricultural issues, energy issues, water and air pollution and hazardous waste. 
 
-*See this [tweet](https://twitter.com/LizzSuter/status/1259940863532240897) about the final projects produced by ENV1010 students in  Spring 2020.*
 
 ### ENV 1020 Foundations of Earth Systems Science
 The Earth functions as a set of interacting components from the lithosphere, hydrosphere, biosphere, and atmosphere. In this course, students will learn what is meant by a systems approach to earth and environmental sciences and how the Earth systems are a large set of cooperative, self-regulating processes driven by thermodynamics. The course will also discuss how these processes contributed to early evolution of life on the planet and how modern day processes such as climate change are impacted or amplified by natural feedbacks.
