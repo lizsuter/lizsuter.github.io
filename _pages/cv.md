@@ -21,14 +21,17 @@ redirect_from:
 ## Work experience
 
 
-* 2019 – Present: **Assistant Professor**
+* 2025 – Present: **Associate Professor**
+	* [Biology, Chemistry and Environmental Science Department (BCES)](https://www.molloy.edu/academics/schools/arts-sciences/undergraduate/biology-environmental-studies/), Molloy University
+
+* 2019 – 2025: **Assistant Professor**
 	* [Biology, Chemistry and Environmental Science Department (BCES)](https://www.molloy.edu/academics/schools/arts-sciences/undergraduate/biology-environmental-studies/), Molloy University
 * 2024 – Present: **Researcher**
 	* [Institute for Ocean Conservation Science](https://www.oceanconservationscience.org/)
-* 2021: **Adjunct Instructor**
-	* [School of Marine and Atmospheric Science (SoMAS)](https://www.stonybrook.edu/somas/), Stony Brook University
-* 2017 – 2019: **Visiting Assistant Professor**
+* 2017 – 2019: **Assistant Professor**
 	* [Department of Biological Sciences](https://wagner.edu/biological-sciences/), Wagner College
+* 2021 - 2022: **Adjunct Instructor**
+	* [School of Marine and Atmospheric Science (SoMAS)](https://www.stonybrook.edu/somas/), Stony Brook University
 * 2017:	**Postdoctoral Associate**
 	* [School of Marine and Atmospheric Science (SoMAS)](https://www.stonybrook.edu/somas/), Stony Brook University
 * 2009-2016: **Graduate Research Assistant and Teaching Assistant**
