@@ -11,6 +11,10 @@ redirect_from:
 
 
 ## Peer-Reviewed Articles
+Mara, P., Geller-McGrath, D., **Suter, E.A.**, Taylor, G.T., Pachiadaki, M., Edgcomb, V. (2024) Plasmid-
+Borne Biosynthetic Gene Clusters within a Permanently Stratified Marine Water Column.
+<i>Microorganisms</i>. doi: [10.3390/microorganisms12050929](https://pubmed.ncbi.nlm.nih.gov/38792759/)
+
 Geller-McGrath, D., Mara, P., Taylor, G.T., **Suter, E.A.**, Edgcomb, V., Pachiadaki, M. (2023) Diverse secondary metabolites are expressed from particle-associated and free-living microorganisms of the permanently anoxic Cariaco Basin. <i>Nature Communications</i>. doi: [10.1038/s41467-023-36026-w](https://www.nature.com/articles/s41467-023-36026-w)
 
 **Suter, E.A.**, Pachiadaki, M., Taylor, G.T., Edgcomb, V.E. (2022) Eukaryotic parasites are integral to a productive microbial food web in oxygen-depleted waters. <i>Frontiers in Microbiology</i>. doi: [10.3389/fmicb.2021.764605](https://www.frontiersin.org/articles/10.3389/fmicb.2021.764605/full)

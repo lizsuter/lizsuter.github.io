@@ -6,6 +6,21 @@ author_profile: true
 ---
 <br/>
 
+### 2026
+- Guest interview on [My Hometown](https://podcasts.apple.com/us/podcast/my-hometown/id1141417283), WHPC
+
+### 2025
+- From microbes to megafauna: How eDNA is shaping Oceanography. Invited talk for Friends of the Bay, Environmental News and Brews Series
+	- Featured in the [Oyster Bay Herald](https://issuu.com/richnercomm/docs/oyster_bay_herald_10-17-2025)
+- Keynote address to the 2024-25 Urban Barcode Research Program Symposium, [From Microbes to Megafauna: The Role of Metabarcoding in Shaping Oceanography](https://dnabarcoding101.org/programs/ubrp/ubrp-archive.html)
+- Keynote address to the 2nd Annual Molloy Undergraduate Research Conference (MURC), [Becoming Human Through Research](https://digitalcommons.molloy.edu/murc/2025/all/4/)
+
+
+### 2024
+- Expert contributions to the [eDNA Knowledge Base](https://edna.dnabarcoding101.org/)
+- Research student, Dominique, presents at the New England Estuarine Research Society (NEERS) Annual Conference in Freeport, Maine, and at the 1st Annual Molloy Undergraduate Research Conference (MURC): [Using eDNA to assess impacts of oyster restoration on ecosystem biodiversity at a heavily impacted coastal lagoon](https://digitalcommons.molloy.edu/cgi/viewcontent.cgi?article=1000&context=murc#page=1.00)
+
+
 ### 2023
 - [Funded for Restoring Coastlines and Retaining Students From Underrepresented Groups](https://www.adelphi.edu/news/funded-for-restoring-coastlines-and-retaining-students-from-underrepresented-groups/)
 - [Gino Macchio Foundation and Molloy University team up to study oyster population](https://tbrnewsmedia.com/gino-macchio-foundation-and-molloy-university-team-up-to-study-oyster-population/)

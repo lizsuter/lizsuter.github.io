@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ecological Genomics and Informatics at Molloy University"
+title: "Aquatic Molecular Ecology, Genomics, and Informatics"
 author_profile: true
 redirect_from: 
   - /about/
