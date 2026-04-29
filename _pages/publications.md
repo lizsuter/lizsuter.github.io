@@ -11,6 +11,10 @@ redirect_from:
 
 
 ## Peer-Reviewed Articles
+Sciorilli, E.T., **Suter, E.A.**, Grima M.M.,
+Cernadas-Martín, S., Pikitch E. (2026)
+Diversity and distribution assessment of elasmobranchs in a shallow estuarine lagoon using environmental DNA. In press at *Frontiers in Marine Science*. doi: [10.3389/fmars.2026.1741931](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1741931/abstract)
+
 Mara, P., Geller-McGrath, D., **Suter, E.A.**, Taylor, G.T., Pachiadaki, M., Edgcomb, V. (2024) Plasmid-
 Borne Biosynthetic Gene Clusters within a Permanently Stratified Marine Water Column.
 <i>Microorganisms</i>. doi: [10.3390/microorganisms12050929](https://pubmed.ncbi.nlm.nih.gov/38792759/)
@@ -45,7 +49,11 @@ Cernadas-Martín, S., **Suter, E.A.**, Scranton, M.I., Astor, Y. Taylor, G.T. (2
 
 ## Other Publications
 
-<ins>**Educational Modules:**  </ins>  
+### Preprints:
+
+**Suter, E. A.**, Santora, C., Sciorilli, E.T., Benejam, N., Stahr, F., Bouvier-Brown, M., Robinson, A., Engstrom, I., Gumbs, S., Browne, J.P., Hoffman, D.N., Leonard, K., Angus, J., Pikitch, E. *Submitted* [First Autonomous eDNA Survey Using a Self- Righting, Solar-Powered Surface Vehicle in an Estuarine Hope Spot.](https://www.researchsquare.com/article/rs-9295806/v1)
+
+### Educational Modules:  
 
 Bioinformatics Virtual Coordination Network: [Home page](https://biovcnet.github.io/), [Wiki](https://github.com/biovcnet/biovcnet.github.io/wiki), and [Videos](https://www.youtube.com/@bioinformaticsvirtualcoord1801/featured)
 
@@ -55,7 +63,7 @@ Corbo, C., Blaize, J., **Suter, E.A.** (2019) Enrichment Cultures: Culturing Aer
 
 Blaize, J., **Suter, E.A.**, Corbo, C. (2019) Serial Dilutions and Plating: Microbial Enumeration. JoVE Journal of Visualized Experiments. - [Video protocol](https://www.jove.com/science-education/10507/serial-dilutions-and-plating-microbial-enumeration)
 
-<ins>**Protocols:**  </ins>  
+### **Protocols:**  
 
 Taylor, G.T., Li, Z.Q., **Suter E.A.**, Chow, S.C. (2017) Modified Filter-Transfer-Freeze ("FTF") Technique for Raman Microspectroscopic Analysis of Single Cells. Protocols.io. doi: [10.17504/protocols.io.ikqccvw](https://www.protocols.io/view/modified-filter-transfer-freeze-ftf-technique-for-ikqccvw)
 

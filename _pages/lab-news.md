@@ -7,7 +7,8 @@ author_profile: true
 <br/>
 
 ### 2026
-- Guest interview on [My Hometown](https://podcasts.apple.com/us/podcast/my-hometown/id1141417283), WHPC
+- Guest interview on [My Hometown](https://podcasts.apple.com/us/podcast/edna-research-at-molloy-university/id1141417283?i=1000750552998), WHPC
+- [Professor Liz Suter: Advancing eDNA Research](https://www.molloy.edu/news/professor-liz-suter-advancing-edna-research)
 
 ### 2025
 - From microbes to megafauna: How eDNA is shaping Oceanography. Invited talk for Friends of the Bay, Environmental News and Brews Series
