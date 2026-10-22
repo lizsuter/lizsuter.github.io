@@ -8,19 +8,20 @@ author_profile: true
 
 ### 2026
 - Guest interview on [My Hometown](https://podcasts.apple.com/us/podcast/edna-research-at-molloy-university/id1141417283?i=1000750552998), WHPC
-- [Professor Liz Suter: Advancing eDNA Research](https://www.molloy.edu/news/professor-liz-suter-advancing-edna-research)
+- [Molloy University profile: Professor Liz Suter—Advancing eDNA Research](https://www.molloy.edu/news/professor-liz-suter-advancing-edna-research), including student research and presentations
+- [Developing eDNA metrics for assessing ecosystem health in Great South Bay](https://digitalcommons.molloy.edu/frd/2026/all/8/), Molloy University Faculty Research Day
+- [Student research: eDNA for biodiversity monitoring and ecosystem assessment in Great South Bay](https://digitalcommons.molloy.edu/murc/2026/all/2/), Molloy Multidisciplinary Undergraduate Research Conference
 
 ### 2025
-- From microbes to megafauna: How eDNA is shaping Oceanography. Invited talk for Friends of the Bay, Environmental News and Brews Series
-	- Featured in the [Oyster Bay Herald](https://issuu.com/richnercomm/docs/oyster_bay_herald_10-17-2025)
-- Keynote address to the 2024-25 Urban Barcode Research Program Symposium, [From Microbes to Megafauna: The Role of Metabarcoding in Shaping Oceanography](https://dnabarcoding101.org/programs/ubrp/ubrp-archive.html)
-- Keynote address to the 2nd Annual Molloy Undergraduate Research Conference (MURC), [Becoming Human Through Research](https://digitalcommons.molloy.edu/murc/2025/all/4/)
-
+- [Invited talk, *From microbes to megafauna: How eDNA is shaping oceanography*](https://www.friendsofthebay.org/achievement-timeline), Friends of the Bay Environmental News and Brews Series
+  - [Featured in the Oyster Bay Herald](https://issuu.com/richnercomm/docs/oyster_bay_herald_10-17-2025)
+- [Invited keynote, *From microbes to megafauna: The role of metabarcoding in shaping oceanography*](https://dnabarcoding101.org/programs/ubp/ubp-archive.html), DNA Learning Center Urban Barcode Project Student Symposium
+- [Invited keynote, *Becoming Human Through Research*](https://digitalcommons.molloy.edu/murc/2025/all/4/), 2nd Annual Molloy Undergraduate Research Conference
 
 ### 2024
-- Expert contributions to the [eDNA Knowledge Base](https://edna.dnabarcoding101.org/)
-- Research student, Dominique, presents at the New England Estuarine Research Society (NEERS) Annual Conference in Freeport, Maine, and at the 1st Annual Molloy Undergraduate Research Conference (MURC): [Using eDNA to assess impacts of oyster restoration on ecosystem biodiversity at a heavily impacted coastal lagoon](https://digitalcommons.molloy.edu/cgi/viewcontent.cgi?article=1000&context=murc#page=1.00)
-
+- [Participated in the first-of-its-kind autonomous eDNA biodiversity survey in Shinnecock Bay](https://news.stonybrook.edu/university/stony-brook-researchers-pioneer-eco-friendly-biodiversity-survey-in-shinnecock-bay/); see also [OOR's summary](https://www.openoceanrobotics.com/edna)
+- Contributed expert content to the [eDNA Knowledge Base](https://edna.dnabarcoding101.org/)
+- Students Dominique Di Domenico and Emily Bonacchi presented [Great South Bay eDNA research at Molloy's Undergraduate Research Conference](https://digitalcommons.molloy.edu/murc/2024/All/16/) and at the Ocean Sciences Meeting and New England Estuarine Research Society annual conference
 
 ### 2023
 - [Funded for Restoring Coastlines and Retaining Students From Underrepresented Groups](https://www.adelphi.edu/news/funded-for-restoring-coastlines-and-retaining-students-from-underrepresented-groups/)
@@ -34,7 +35,7 @@ author_profile: true
 
 ### 2022
 
-- Research student, Matt, is awarded a fellowship through the [ASLO-MP](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/) program to present his work on oyster pathogens at the ASLO meeting in Mallorca, Spainmo. [Congrats Matt!](https://www.instagram.com/p/CmHq2hiP7yY/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+- Research student Matt was awarded a fellowship through the [ASLO-MP](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/) program to present his work on oyster pathogens at the ASLO meeting in Mallorca, Spain. [Congratulations, Matt!](https://www.instagram.com/p/CmHq2hiP7yY/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 
 ### 2021

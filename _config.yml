@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Elizabeth A. Suter"
 title_separator          : "-"
 name                     : &name "Dr. Liz Suter"
-description              : &description "Associate Professor, Molloy University"
+description              : &description "Associate Professor of Environmental Science at Molloy University"
 url                      : https://lizsuter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lizsuter/lizsuter.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :

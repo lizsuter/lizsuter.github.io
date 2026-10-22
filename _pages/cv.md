@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my full CV here](http://lizsuter.github.io/files/CV.pdf)
+[Download my full CV (updated August 2026)](/files/CV.pdf)
 
 ## Education
 
@@ -23,15 +23,14 @@ redirect_from:
 
 * 2025 – Present: **Associate Professor**
 	* [Biology, Chemistry and Environmental Science Department (BCES)](https://www.molloy.edu/academics/schools/arts-sciences/undergraduate/biology-environmental-studies/), Molloy University
-
-* 2019 – 2025: **Assistant Professor**
-	* [Biology, Chemistry and Environmental Science Department (BCES)](https://www.molloy.edu/academics/schools/arts-sciences/undergraduate/biology-environmental-studies/), Molloy University
-* 2024 – Present: **Researcher**
+* 2024 – Present: **Research Affiliate**
 	* [Institute for Ocean Conservation Science](https://www.oceanconservationscience.org/)
+* 2019 – 2025: **Assistant Professor**
+	* Biology, Chemistry and Environmental Science Department (BCES), Molloy University
+* 2021 – 2022: **Adjunct Instructor**
+	* [School of Marine and Atmospheric Science (SoMAS)](https://www.stonybrook.edu/somas/), Stony Brook University
 * 2017 – 2019: **Assistant Professor**
 	* [Department of Biological Sciences](https://wagner.edu/biological-sciences/), Wagner College
-* 2021 - 2022: **Adjunct Instructor**
-	* [School of Marine and Atmospheric Science (SoMAS)](https://www.stonybrook.edu/somas/), Stony Brook University
 * 2017:	**Postdoctoral Associate**
 	* [School of Marine and Atmospheric Science (SoMAS)](https://www.stonybrook.edu/somas/), Stony Brook University
 * 2009-2016: **Graduate Research Assistant and Teaching Assistant**

@@ -1,7 +1,7 @@
 # main links links
 main:
 
-  - title: "Projects"
+  - title: "Research"
     url: /projects/
 
   - title: "Teaching"
@@ -9,12 +9,12 @@ main:
 
   - title: "Publications"
     url: /publications/
-    
+
   - title: "Lab News"
     url: /lab-news/
-    
+
   - title: "CV"
     url: /cv/
-    
+
   - title: "Info For Students"
-    url: /for-students/     
+    url: /for-students/

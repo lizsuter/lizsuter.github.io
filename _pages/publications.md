@@ -11,13 +11,9 @@ redirect_from:
 
 
 ## Peer-Reviewed Articles
-Sciorilli, E.T., **Suter, E.A.**, Grima M.M.,
-Cernadas-Martín, S., Pikitch E. (2026)
-Diversity and distribution assessment of elasmobranchs in a shallow estuarine lagoon using environmental DNA. In press at *Frontiers in Marine Science*. doi: [10.3389/fmars.2026.1741931](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1741931/abstract)
+Sciorilli, E.T., **Suter, E.A.**, Grima, M.M., Cernadas-Martín, S., Pikitch, E.K. (2026) Diversity and distribution assessment of elasmobranchs in a shallow estuarine lagoon using environmental DNA. <i>Frontiers in Marine Science</i>. doi: [10.3389/fmars.2026.1741931](https://doi.org/10.3389/fmars.2026.1741931)
 
-Mara, P., Geller-McGrath, D., **Suter, E.A.**, Taylor, G.T., Pachiadaki, M., Edgcomb, V. (2024) Plasmid-
-Borne Biosynthetic Gene Clusters within a Permanently Stratified Marine Water Column.
-<i>Microorganisms</i>. doi: [10.3390/microorganisms12050929](https://pubmed.ncbi.nlm.nih.gov/38792759/)
+Mara, P., Geller-McGrath, D., **Suter, E.A.**, Taylor, G.T., Pachiadaki, M., Edgcomb, V. (2024) Plasmid-borne biosynthetic gene clusters within a permanently stratified marine water column. <i>Microorganisms</i>. doi: [10.3390/microorganisms12050929](https://doi.org/10.3390/microorganisms12050929)
 
 Geller-McGrath, D., Mara, P., Taylor, G.T., **Suter, E.A.**, Edgcomb, V., Pachiadaki, M. (2023) Diverse secondary metabolites are expressed from particle-associated and free-living microorganisms of the permanently anoxic Cariaco Basin. <i>Nature Communications</i>. doi: [10.1038/s41467-023-36026-w](https://www.nature.com/articles/s41467-023-36026-w)
 
@@ -25,7 +21,7 @@ Geller-McGrath, D., Mara, P., Taylor, G.T., **Suter, E.A.**, Edgcomb, V., Pachia
 
 Tully, B.J, Buongiorno, J. Cohen, A.B., Cram, J.A., Garber, A.I., Hu, S.K., Krinos, A.I., Leftwich, P.T., Marshall, A., Sieradzki, E.T., Speth, D.R. **Suter, E.A.**, Trivedi, C.B., Valentin-Alvarado, L.E., Weissman, J.L, Lee, M.D, Alexander, H., Collins, R.E., Pachiadaki, M., Rhodes, A.C.E, Decatur, W. (2021) The Bioinformatics Virtual Coordination Network: An open-source and interactive learning environment. <i>Frontiers in Education</i>. doi: [10.3389/feduc.2021.711618](https://www.frontiersin.org/articles/10.3389/feduc.2021.711618/full).
 
-**Suter, E.A.**, Pachiadaki, M. Edgcomb, V., Scranton M., Montes, E. Taylor, G.T. (2020) Diverse nitrogen cycling pathways across a marine oxygen gradient indicate nitrogen loss coupled to chemoautotrophic activity. <i>Environmental Microbiology</i>. doi: [10.1111/1462‐2920.15187](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15187).
+**Suter, E.A.**, Pachiadaki, M., Edgcomb, V., Scranton, M., Montes, E., Taylor, G.T. (2020) Diverse nitrogen cycling pathways across a marine oxygen gradient indicate a decoupling from organic matter degradation. <i>Environmental Microbiology</i>. doi: [10.1111/1462-2920.15187](https://doi.org/10.1111/1462-2920.15187).
 
 Mara, P., Vik, D., Pachiadaki, M.G., **Suter, E.A.**, Taylor, G.T., Sullivan, M., Poulos, B., Edgcomb V.P. (2020) Viruses and their auxiliary metabolic genes along the redoxcline of the permanently stratified Cariaco Basin. <i>ISME Journal</i>. doi: [10.1038/s41396-020-00739-3](https://www.nature.com/articles/s41396-020-00739-3).
 
@@ -49,11 +45,11 @@ Cernadas-Martín, S., **Suter, E.A.**, Scranton, M.I., Astor, Y. Taylor, G.T. (2
 
 ## Other Publications
 
-### Preprints:
+### Preprints
 
-**Suter, E. A.**, Santora, C., Sciorilli, E.T., Benejam, N., Stahr, F., Bouvier-Brown, M., Robinson, A., Engstrom, I., Gumbs, S., Browne, J.P., Hoffman, D.N., Leonard, K., Angus, J., Pikitch, E. *Submitted* [First Autonomous eDNA Survey Using a Self- Righting, Solar-Powered Surface Vehicle in an Estuarine Hope Spot.](https://www.researchsquare.com/article/rs-9295806/v1)
+**Suter, E.A.**, Santora, C., Sciorilli, E.T., Benejam, N., Stahr, F., Bouvier-Brown, M., Robinson, A., Engstrom, I., Gumbs, S., Browne, J.P., Hoffman, D.N., Leonard, K., Angus, J., Pikitch, E.K. *Submitted.* [First autonomous eDNA survey using a self-righting, solar-powered surface vehicle in an estuarine Hope Spot](https://doi.org/10.21203/rs.3.rs-9295806/v1).
 
-### Educational Modules:  
+### Educational Modules
 
 Bioinformatics Virtual Coordination Network: [Home page](https://biovcnet.github.io/), [Wiki](https://github.com/biovcnet/biovcnet.github.io/wiki), and [Videos](https://www.youtube.com/@bioinformaticsvirtualcoord1801/featured)
 
@@ -63,7 +59,7 @@ Corbo, C., Blaize, J., **Suter, E.A.** (2019) Enrichment Cultures: Culturing Aer
 
 Blaize, J., **Suter, E.A.**, Corbo, C. (2019) Serial Dilutions and Plating: Microbial Enumeration. JoVE Journal of Visualized Experiments. - [Video protocol](https://www.jove.com/science-education/10507/serial-dilutions-and-plating-microbial-enumeration)
 
-### **Protocols:**  
+### Protocols
 
 Taylor, G.T., Li, Z.Q., **Suter E.A.**, Chow, S.C. (2017) Modified Filter-Transfer-Freeze ("FTF") Technique for Raman Microspectroscopic Analysis of Single Cells. Protocols.io. doi: [10.17504/protocols.io.ikqccvw](https://www.protocols.io/view/modified-filter-transfer-freeze-ftf-technique-for-ikqccvw)
 
