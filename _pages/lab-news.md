@@ -7,6 +7,7 @@ author_profile: true
 <br/>
 
 ### 2026
+- Awarded a three-year New York State Department of State contract to lead environmental DNA coordination across the South Shore Estuary Reserve (2026–2029)
 - Guest interview on [My Hometown](https://podcasts.apple.com/us/podcast/edna-research-at-molloy-university/id1141417283?i=1000750552998), WHPC
 - [Molloy University profile: Professor Liz Suter—Advancing eDNA Research](https://www.molloy.edu/news/professor-liz-suter-advancing-edna-research), including student research and presentations
 - [Developing eDNA metrics for assessing ecosystem health in Great South Bay](https://digitalcommons.molloy.edu/frd/2026/all/8/), Molloy University Faculty Research Day

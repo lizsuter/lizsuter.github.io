@@ -11,7 +11,28 @@ My research applies molecular and computational methods to questions in coastal 
 
 Oyster restoration can alter habitat structure, water quality, and the distribution of other organisms. In Great South Bay, my group uses eDNA metabarcoding to examine biodiversity at oyster-restored and comparison sites. The project is designed to evaluate whether eDNA-derived community data can contribute to assessments of ecosystem condition and restoration outcomes.
 
-This work is conducted with undergraduate researchers at Molloy University and support from the Gino Macchio Foundation. It builds on earlier work developing molecular tools for monitoring bacterial communities and potential pathogens associated with restored oyster reefs.
+This work is conducted with undergraduate researchers at Molloy University and support from the [Gino Macchio Foundation](https://ginomacchiofoundation.com/). It builds on earlier work developing molecular tools for monitoring bacterial communities and potential pathogens associated with restored oyster reefs.
+
+Alongside the eDNA work and in collaboration with [Seatuck Environmental Association](https://seatuck.org/), we are conducting an oyster spat-collection feasibility study to test whether natural recruitment can be measured reliably at candidate restoration sites in Great South Bay. Students and project partners prepare, deploy, and retrieve spat collectors to compare oyster settlement among locations and assess the potential for future restoration work.
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
+  <figure style="margin: 0;">
+    <img src="/images/SoatCollectorSetup.jpg" alt="Students and project partners preparing oyster spat collectors on a dock" style="width: 100%; height: auto;">
+    <figcaption>Preparing oyster spat collectors for deployment in Great South Bay.</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/StudentsOnBoatSpatCollectors.jpg" alt="Two student researchers aboard a field boat with oyster spat collectors" style="width: 100%; height: auto;">
+    <figcaption>Student researchers transporting oyster spat collectors for field deployment.</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/SailingAWay.jpg" alt="Molloy student field team departing a marina aboard a research boat" style="width: 100%; height: auto;">
+    <figcaption>Molloy students departing for fieldwork in Great South Bay.</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/Studentsinthewater.jpg" alt="Student researchers working with oyster spat collectors in shallow estuarine water" style="width: 100%; height: auto;">
+    <figcaption>Fieldwork for the oyster spat-collection feasibility study.</figcaption>
+  </figure>
+</div>
 
 - [Developing eDNA metrics for assessing ecosystem health in Great South Bay](https://digitalcommons.molloy.edu/frd/2026/all/8/)
 - [Undergraduate research: eDNA for biodiversity monitoring and ecosystem assessment in Great South Bay](https://digitalcommons.molloy.edu/murc/2026/all/2/)
@@ -48,6 +69,17 @@ The project was a collaboration among the Shinnecock Bay Restoration Program, In
 ## Microbial ecology and marine biogeochemistry
 
 Oxygen-depleted water columns are hotspots of microbial carbon, nitrogen, and sulfur cycling. My work in the Cariaco Basin and other low-oxygen marine systems has examined how free-living, particle-associated, viral, and eukaryotic communities vary across redox gradients and contribute to elemental cycling.
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
+  <figure style="margin: 0;">
+    <img src="/images/HRE_SYBR.png" alt="SYBR-stained bacterial cells viewed with epifluorescence microscopy" style="width: 100%; height: auto;">
+    <figcaption>SYBR-stained bacterial cells viewed with epifluorescence microscopy.</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/Summer2019.jpg" alt="Undergraduate researchers collecting coastal water samples" style="width: 100%; height: auto;">
+    <figcaption>Undergraduate researchers collecting coastal water samples.</figcaption>
+  </figure>
+</div>
 
 ## Methods and reproducible analysis
 

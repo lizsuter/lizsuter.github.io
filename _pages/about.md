@@ -20,4 +20,4 @@ My current work focuses on:
 - coordinating eDNA methods, data, and monitoring across the South Shore Estuary Reserve; and
 - understanding how microorganisms mediate carbon, nitrogen, and sulfur cycling in oxygen-depleted marine waters.
 
-Much of this work is collaborative and includes undergraduate researchers. See [Research](/projects/) for current projects and [Publications](/publications/) for peer-reviewed work.
+Much of this work is collaborative and includes undergraduate researchers. See [Research](/projects/) for current projects and [Publications](/publications/) for more information.
